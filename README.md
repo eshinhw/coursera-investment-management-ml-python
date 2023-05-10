@@ -1,1 +1,3 @@
-# Python for Data Analysis
+# PyQuant
+
+A collection of quantitative data analysis in Python
