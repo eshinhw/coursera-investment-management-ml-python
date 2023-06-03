@@ -1,9 +1,9 @@
 # PyQuant
 
-A collection of quantitative data analysis in Python
+A collection of financial data analysis in Jupyter Notebook, Python.
 
-## Matplotlib
+## Contents
 
-## Pandas
+1. [Pandas Basics](01_Pandas_Basics.ipynb)
 
-## Numpy
+
