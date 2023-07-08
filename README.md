@@ -9,5 +9,5 @@ A collection of financial data analysis in Jupyter Notebook, Python.
 3. [Maximum Drawdown](03_Maximum_Drawdown_MDD.ipynb)
 4. [Portfolio Statistics and Optimization with PyPortfolioOpt](04_Portfolio_Statistics_Optimization_with_PyPortfolioOpt.ipynb)
 5. [Options Basics](05_Options_Basics.ipynb)
-6. [Historical Dividend Visualizer](06_Historical\ Dividend\ Visualizer.ipynb)
+6. [Historical Dividend Visualizer](06_Historical_Dividend_Visualizer.ipynb)
 7. 
