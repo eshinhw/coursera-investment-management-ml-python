@@ -1,8 +1,8 @@
 # PyQuant
 
-A collection of financial data analysis in Jupyter Notebook, Python.
+A collection of Jupyter Notebooks in Financial Data Analysis
 
-## Summary of Contents
+## 1. Fundamentals of Risks and Returns
 
 1. [Pandas Basics](01_Pandas_Basics.ipynb)
 2. [Financial Returns, Volatility and Sharpe Ratio of Stock Price Data](02_Returns_Volatility_Sharpe_Ratio_Stock_Data.ipynb)
