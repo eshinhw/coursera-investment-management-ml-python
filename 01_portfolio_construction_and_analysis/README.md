@@ -8,6 +8,7 @@
   - Volatility: Variance and Standard Deviation
   - Annualized Volatility
   - Sharpe Ratio
+  - Max Drawdown
 - [Coding Practice: Fundamentals of Risk and Returns](01_Fundamentals_of_Risk_and_Returns_Coding_Practice.ipynb)
 
 ## 2. Beyond the Gaussian Case: Extreme Risk Estimates
