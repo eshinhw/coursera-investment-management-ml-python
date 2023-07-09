@@ -1,6 +1,6 @@
 # Introduction to Portfolio Construction and Analysis with Python
 
-- [Fundamentals of Risk and Returns](Fundamentals_of_Risk_and_Returns.ipynb)
+- [Fundamentals of Risk and Returns](01_Fundamentals_of_Risk_and_Returns.ipynb)
   - Simple Price Returns
   - Total Return
   - Multi-Period Return
@@ -8,6 +8,7 @@
   - Volatility: Variance and Standard Deviation
   - Annualized Volatility
   - Sharpe Ratio
+- [Coding Practice: Fundamentals of Risk and Returns](01_Fundamentals_of_Risk_and_Returns_Coding_Practice.ipynb)
 
 ## 2. Beyond the Gaussian Case: Extreme Risk Estimates
 
