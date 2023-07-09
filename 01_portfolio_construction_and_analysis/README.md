@@ -5,7 +5,12 @@
   - Total Return
   - Multi-Period Return
   - Annualized Return
-  - Compound Return
+  - Volatility: Variance and Standard Deviation
+  - Annualized Volatility
+  - Sharpe Ratio
+
 ## 2. Beyond the Gaussian Case: Extreme Risk Estimates
+
 ## 3. Introduction to Optimization and The Efficient Frontier
+
 ## 4. Markowitz Implementaion
