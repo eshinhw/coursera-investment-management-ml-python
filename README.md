@@ -1,6 +1,6 @@
 # PyQuant
 
-A collection of Jupyter Notebooks in Investment Management with Python and Machine Learning Specialization from Coursera.
+Investment Management with Python and Machine Learning Specialization from Coursera.
 
 1. [Introduction to Portfolio Construction and Analysis with Python](01_portfolio_construction_and_analysis/README.md)
 
