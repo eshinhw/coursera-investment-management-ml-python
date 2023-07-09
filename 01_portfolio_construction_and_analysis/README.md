@@ -6,6 +6,8 @@
   - Sharpe Ratio
   - Max Drawdown
 - [Coding Practice: Fundamentals of Risk and Returns](01_Fundamentals_of_Risk_and_Returns_Coding_Practice.ipynb)
+- [Extreme Risk Estimates](02_Extreme_Risk_Estimates.ipynb)
+- [Coding Practice: Extreme Risk Estimates](02_Extreme_Risk_Estimates_Coding_Practice.ipynb)
 
 ## 2. Beyond the Gaussian Case: Extreme Risk Estimates
 
