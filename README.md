@@ -3,6 +3,7 @@
 Investment Management with Python and Machine Learning Specialization from Coursera.
 
 1. [Introduction to Portfolio Construction and Analysis with Python](01_portfolio_construction_and_analysis/README.md)
+2. [Advanced Portfolio Construction and Analysis with Python](02_advanced_portfolio_construction_and_analysis/README.md)
 
 <!-- 1. [Pandas Basics](01_Pandas_Basics.ipynb)
 1. [Financial Returns, Volatility and Sharpe Ratio of Stock Price Data](02_Returns_Volatility_Sharpe_Ratio_Stock_Data.ipynb)
