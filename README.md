@@ -1,4 +1,4 @@
-# PyQuant
+# Learn Quantitative Finance
 
 Investment Management with Python and Machine Learning Specialization from Coursera.
 
